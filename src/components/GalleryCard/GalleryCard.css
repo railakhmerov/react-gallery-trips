@@ -13,12 +13,14 @@
     padding: 15px 20px;
     border-radius: 100px;
     font-weight: 600;
+    color: #181818;
     background-color: #FFF59D;
 }
 .card__count-people {
     padding: 15px 20px; 
     border-radius: 100px;
     font-weight: 600;
+    color: #181818;
     background-color: #FFF59D;
 }
 .card__place-month-price {

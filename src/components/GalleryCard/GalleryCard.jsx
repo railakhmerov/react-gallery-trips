@@ -3,7 +3,7 @@ import './GalleryCard.css'
 function GalleryCard(props) {
    console.log(props)
    return (
-   	<a href={props.link} className='card'>
+   	<a href="#" className='card'>
          <img src={props.image} alt="card-image" />
          <div className='card__top-info'>
             <p className='card__transport'>{props.transport}</p>
