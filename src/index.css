@@ -1,0 +1,10 @@
+body {
+  font-family: "Arimo", sans-serif;
+  font-size: 18px;
+  background-color: #FFFEF4;
+}
+
+.container {
+  width: 1150px;
+  margin: 0 auto;
+}

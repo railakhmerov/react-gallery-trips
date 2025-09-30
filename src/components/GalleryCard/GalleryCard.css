@@ -1,0 +1,30 @@
+.card {
+    position: relative;
+}
+.card__top-info {
+    max-width: max-content;
+    max-height: max-content;
+    position: absolute;
+    top: 25px;
+    left: 30px;
+    display: flex;
+}
+.card__transport {
+    padding: 15px 20px;
+    border-radius: 100px;
+    font-weight: 600;
+    background-color: #FFF59D;
+}
+.card__count-people {
+    padding: 15px 20px; 
+    border-radius: 100px;
+    font-weight: 600;
+    background-color: #FFF59D;
+}
+.card__place-month-price {
+    position: absolute;
+    bottom: 60px;
+    left: 40px;
+    font-size: 45px;
+    color: #ffffff;
+}
